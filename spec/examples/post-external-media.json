@@ -1,0 +1,18 @@
+{
+  "spec": { "name": "file-social", "version": "0.1" },
+  "type": "post",
+  "id": "post_demo_002",
+  "created_at": "2026-01-17T10:00:00Z",
+  "author_id": "user_demo_001",
+  "visibility": "unlisted",
+  "content": { "text": "External media test." },
+  "attachments": [
+    {
+      "media_id": "med_demo_001",
+      "mime": "image/jpeg",
+      "url": "https://example.com/image.jpg",
+      "width": 1200,
+      "height": 800
+    }
+  ]
+}
