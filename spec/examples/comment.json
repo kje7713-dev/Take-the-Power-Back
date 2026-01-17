@@ -1,0 +1,9 @@
+{
+  "spec": { "name": "file-social", "version": "0.1" },
+  "type": "comment",
+  "id": "cmt_demo_001",
+  "created_at": "2026-01-17T10:05:00Z",
+  "author_id": "user_demo_001",
+  "parent": { "type": "post", "id": "post_demo_001" },
+  "content": { "text": "Commenting works too." }
+}
