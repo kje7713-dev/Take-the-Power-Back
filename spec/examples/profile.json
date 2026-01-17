@@ -1,0 +1,8 @@
+{
+  "spec": { "name": "file-social", "version": "0.1" },
+  "type": "profile",
+  "id": "user_demo_001",
+  "created_at": "2026-01-17T00:00:00Z",
+  "display_name": "Demo User",
+  "handle": "demo"
+}
